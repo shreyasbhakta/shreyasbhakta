@@ -1,14 +1,14 @@
-## Hello, folks! <img src="https://media.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif" width="30px">
+## Hello, geeks! <img src="https://media.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif" width="30px">
 
 [![Gmail Badge](https://img.shields.io/badge/-shreyasbhakta@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:shreyasbhakta@gmail.com "Connect via Email")
 [![Linkedin Badge](https://img.shields.io/badge/-Shreyas%20Bhakta-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shreyas-bhakta-597021179/ "Connect on LinkedIn")
 <br>
-Hi, I am Shreyas, I am passionate developer and pentester. I am enthusiatic to learn and explore new stuffs.
+Hi,Shreyas here, a passionate developer and pentester who is enthusiatic to learn and explore new concepts and technologies.
 <br>
-Some Technologies and tools I work with are MongoDB, NodeJS, Android Studio (Kotlin,Java), React.
+Some Technologies and tools in which I've good command are MongoDB, NodeJS, Android Studio (Kotlin,Java), React.
 <br>
 <br>
-I am also into competetive programming, participating in various contest has boosted my confidence and improved my problem-solving skills.
+Also I'm into competetive programming and participating in various contests has boosted my confidence and improved my problem-solving skills.
 <br>
 <table scrolling=no>
  <tr>
