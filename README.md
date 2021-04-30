@@ -7,6 +7,9 @@ Hi, I am Shreyas, I am passionate developer and pentester. I am enthusiatic to l
 <br>
 Some Technologies and tools I work with are MongoDB, NodeJS, Android Studio (Kotlin,Java), React.
 <br>
+<br>
+I am also into competetive programming, participating in various contest has boosted my confidence and improved my problem-solving skills.
+<br>
 <table scrolling=no>
  <tr>
   <td><h3>Languages and Tools 💻:</h3>
