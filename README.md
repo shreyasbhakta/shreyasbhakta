@@ -29,7 +29,7 @@ Some Technologies and tools I work with are MongoDB, NodeJS, Android Studio (Kot
 <img src="https://github-readme-stats.vercel.app/api?username=shreyasbhakta&show_icons=true" width="400"></td>
   <td>
  <img src="https://media.giphy.com/media/IeRdg7gLkfK1ly2mFU/giphy.gif" height="200" wifdth="200">
- <h3> Find me around the web 🌎:</h3>
+ <h3> Reach me on:</h3>
 
  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/shreyas-bhakta-597021179/) 
 
