@@ -12,7 +12,7 @@ Also I'm into competetive programming and participating in various contests has 
 <br>
 <table scrolling=no>
  <tr>
-  <td><h3>Languages and Tools 💻:</h3>
+  <td><h3>Tools and Technologies:</h3>
 <br>
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
