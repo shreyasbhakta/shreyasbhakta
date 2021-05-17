@@ -38,6 +38,14 @@ Also I'm into competetive programming and participating in various contests has 
 </td>
   <tr>
  </table>
+ 
+
+
+ 
+ <details> 
+  <summary>💻 More Stats</summary>
+   <img alt="Shreyas's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=shreyasbhakta&theme=react-dark"/> 
+</details>
 
 
 
