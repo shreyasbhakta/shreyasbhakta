@@ -3,12 +3,35 @@
 [![Gmail Badge](https://img.shields.io/badge/-shreyasbhakta@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:shreyasbhakta@gmail.com "Connect via Email")
 [![Linkedin Badge](https://img.shields.io/badge/-Shreyas%20Bhakta-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shreyas-bhakta-597021179/ "Connect on LinkedIn")
 <br>
-Hi,Shreyas here, a passionate developer and pentester who is enthusiatic to learn and explore new concepts and technologies.
+🚀 Backend Engineer | Engineering Management Graduate Student | Scalable Systems & Cloud Enthusiast 
+
+I am passionate about building scalable backend systems that drive efficiency, optimize performance, and enhance user experience. My journey began with a strong interest in backend development, system architecture, and cloud infrastructure, leading me to pursue a Master’s in Engineering Management at Stevens Institute of Technology. This program has further strengthened my ability to bridge technology and business strategy, equipping me with leadership and problem-solving skills essential for modern tech-driven environments. 
 <br>
-Some Technologies and tools in which I've good command are MongoDB, NodeJS, Android Studio (Kotlin,Java), React.
 <br>
+💡 What I Bring: 
 <br>
-Also I'm into competetive programming and participating in various contests has boosted my confidence and improved my problem-solving skills.
+🔹 Backend Engineering: Expertise in Java, Node.js, Python for scalable and high-performance solutions. 
+<br>
+🔹 Cloud & DevOps: Hands-on experience with AWS, GCP, Kubernetes, and Docker to optimize infrastructure. 
+<br>
+🔹 API Development & Performance Optimization: Designing and refining APIs for seamless integrations. 
+<br>
+🔹 Database Management: Proficiency in SQL, MongoDB, ScyllaDB to handle large-scale data processing. 
+<br>
+🔹 Agile & System Design: Strong collaboration with cross-functional teams to deliver robust, scalable systems. 
+<br>
+<br>💼 Experience & Impact: 
+<br>
+✔ Developed and optimized financial systems to enhance real-time payment processing. 
+<br>✔ Enhanced digital transaction services, improving API response times and system efficiency. 
+<br>✔ Migrated critical services to cloud infrastructure, ensuring scalability and cost-effectiveness. 
+<br><br>
+🎯 Career Path & Future Aspirations: 
+<br>With a strong technical foundation in backend development and a strategic mindset from my Engineering Management program, I aim to take on roles that allow me to solve complex engineering challenges while driving business growth. 
+<br>Whether it’s backend engineering, cloud infrastructure, product management, or technical leadership, I am eager to contribute my expertise to high-impact projects. 
+<br><br>
+📩 Let’s connect! I’m actively exploring opportunities in backend development, system architecture, and engineering leadership roles.
+
 <br>
 <table scrolling=no>
  <tr>
