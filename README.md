@@ -69,6 +69,32 @@
 <table>
   <tr>
     <td width="50%">
+      <h3>🧭 Trailmarked</h3>
+      <p>Agentic RPA platform that learns legacy banking UIs once, then replays them as versioned capabilities with no LLM in the loop. LangGraph discovery agent drives Playwright, with a capability registry over gRPC, REST &amp; GraphQL and a human-in-the-loop escalation saga.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+        <img src="https://img.shields.io/badge/Claude%20API-D97757?style=flat-square&logo=anthropic&logoColor=white" />
+        <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
+        <img src="https://img.shields.io/badge/gRPC-244c5a?style=flat-square&logo=grpc&logoColor=white" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+      </p>
+      <a href="https://github.com/shreyasbhakta/trailmarked">→ View Repo</a>
+    </td>
+    <td width="50%">
+      <h3>🚀 CareerReboot</h3>
+      <p>Multi-agent job search system: a LangGraph coordinator orchestrates sub-agents that parse live postings, score fit, close ATS keyword gaps and draft tailored cover letters &amp; outreach, with a FastAPI backend tracking the whole pipeline.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+        <img src="https://img.shields.io/badge/Embeddings-E8302C?style=flat-square" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+      </p>
+      <a href="https://github.com/shreyasbhakta/CareerReboot">→ View Repo</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
       <h3>🧠 MindMesh</h3>
       <p>Cross-platform wellness platform — mood, sleep, exercise, and focus tracking with gamified XP system and offline-first sync.</p>
       <p>
@@ -103,30 +129,6 @@
         <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
       </p>
       <a href="https://github.com/shreyasbhakta/ducktor">→ View Repo</a>
-    </td>
-    <td width="50%">
-      <h3>🏥 Medi-Assist</h3>
-      <p>Full-stack medical record manager — appointment scheduling, document scanning, and secure GCP-backed health data storage.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-        <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
-      </p>
-      <a href="https://github.com/shreyasbhakta/medical_record">→ View Repo</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>📋 Diginotice</h3>
-      <p>Digital notice board for institutions — multi-role access, real-time push, expiry-based archiving, and PWA offline support.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-        <img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white" />
-      </p>
-      <a href="https://github.com/shreyasbhakta/Diginotice">→ View Repo</a>
     </td>
     <td width="50%">
       <h3>🚂 Railway Route Optimizer</h3>
