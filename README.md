@@ -95,16 +95,15 @@
   </tr>
   <tr>
     <td width="50%">
-      <h3>🧠 MindMesh</h3>
-      <p>Cross-platform wellness platform — mood, sleep, exercise, and focus tracking with gamified XP system and offline-first sync.</p>
+      <h3>🔎 mcp-groundtruth</h3>
+      <p>Open-source safety audit tool for MCP servers — executes tools to verify that declared annotations (readOnlyHint, idempotentHint, destructiveHint) hold up. Found a real discrepancy in the official MCP memory server, reported upstream (modelcontextprotocol/servers #5153).</p>
       <p>
-        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/MCP-000000?style=flat-square&logo=modelcontextprotocol&logoColor=white" />
+        <img src="https://img.shields.io/badge/Claude%20API-D97757?style=flat-square&logo=claude&logoColor=white" />
+        <img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" />
       </p>
-      <a href="https://github.com/shreyasbhakta/mindmesh">→ View Repo</a>
+      <a href="https://github.com/shreyasbhakta/mcp-groundtruth">→ View Repo</a>
     </td>
     <td width="50%">
       <h3>✈️ SkyChoice</h3>
