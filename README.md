@@ -107,12 +107,12 @@
     </td>
     <td width="50%">
       <h3>✈️ SkyChoice</h3>
-      <p>Flight search & comparison platform aggregating real-time fares with smart filtering, price trends, and fare alerts.</p>
+      <p>Decision intelligence for airline selection — picks the best scoring method (TOPSIS, MAUT, VIKOR, PROMETHEE II, SAW, COPRAS) per traveler, uses live fares with a historical fallback, and stress-tests results with 500-iteration Monte Carlo.</p>
       <p>
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-        <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
       </p>
       <a href="https://github.com/shreyasbhakta/SkyChoice">→ View Repo</a>
     </td>
