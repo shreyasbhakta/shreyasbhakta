@@ -96,14 +96,15 @@
   <tr>
     <td width="50%">
       <h3>🔎 mcp-groundtruth</h3>
-      <p>Open-source safety audit tool for MCP servers — executes tools to verify that declared annotations (readOnlyHint, idempotentHint, destructiveHint) hold up. Found a real discrepancy in the official MCP memory server, reported upstream (modelcontextprotocol/servers #5153).</p>
+      <p>Behavioral conformance harness for MCP tool annotations — runs a server's tools in a sandbox and checks declared hints (readOnlyHint, destructiveHint, idempotentHint) against what they actually do. On PyPI (v0.3.0, adds network side-effect checks); audited the reference memory and filesystem servers, with a declared-vs-real idempotency discrepancy reported upstream (modelcontextprotocol/servers #5153).</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/MCP-000000?style=flat-square&logo=modelcontextprotocol&logoColor=white" />
-        <img src="https://img.shields.io/badge/Claude%20API-D97757?style=flat-square&logo=claude&logoColor=white" />
+        <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" />
         <img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" />
+        <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
       </p>
-      <a href="https://github.com/shreyasbhakta/mcp-groundtruth">→ View Repo</a>
+      <a href="https://github.com/shreyasbhakta/mcp-groundtruth">→ View Repo</a> · <a href="https://pypi.org/project/mcp-groundtruth/">PyPI</a>
     </td>
     <td width="50%">
       <h3>✈️ SkyChoice</h3>
