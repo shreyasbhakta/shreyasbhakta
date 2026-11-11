@@ -146,20 +146,6 @@
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shreyasbhakta&show_icons=true&theme=dark&bg_color=0C0C0B&title_color=E8302C&icon_color=E8302C&text_color=F2F2F0&border_color=2A2A28&hide_border=false&count_private=true" height="170" alt="GitHub Stats" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyasbhakta&layout=compact&theme=dark&bg_color=0C0C0B&title_color=E8302C&text_color=F2F2F0&border_color=2A2A28&hide_border=false&langs_count=8" height="170" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=shreyasbhakta&theme=dark&background=0C0C0B&ring=E8302C&fire=E8302C&currStreakLabel=E8302C&sideLabels=F2F2F0&dates=888886&border=2A2A28" alt="GitHub Streak" />
-</p>
-
----
-
 ## Let's Connect
 
 <p align="center">
