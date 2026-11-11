@@ -96,7 +96,7 @@
   <tr>
     <td width="50%">
       <h3>🔎 mcp-groundtruth</h3>
-      <p>Behavioral conformance harness for MCP tool annotations — runs a server's tools in a sandbox and checks declared hints (readOnlyHint, destructiveHint, idempotentHint) against what they actually do. On PyPI (v0.3.0, adds network side-effect checks); audited the reference memory and filesystem servers, with a declared-vs-real idempotency discrepancy reported upstream (modelcontextprotocol/servers #5153).</p>
+      <p>Behavioral conformance harness for MCP tool annotations — runs a server's tools in a sandbox and checks declared hints (readOnlyHint, destructiveHint, idempotentHint) against what they actually do. On PyPI (v0.5.0) with network side-effect checks, hidden-state probes and data-lineage tracing; audited the reference memory and filesystem servers with no violations, and the idempotency discrepancy it reported (modelcontextprotocol/servers #5153) was fixed upstream by the maintainers.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/MCP-000000?style=flat-square&logo=modelcontextprotocol&logoColor=white" />
